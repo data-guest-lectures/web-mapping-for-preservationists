@@ -13,7 +13,7 @@ class: center
 - - -
 # Web Mapping for Preservationists
 ## Richard Dunks
-## Follow along at: https://data-guest-lectures.github.io/agile-and-design-thinking-in-gov/
+## Follow along at: https://data-guest-lectures.github.io/web-mapping-for-preservationists/ 
 
 ---
 
